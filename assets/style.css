@@ -1,0 +1,43 @@
+body {
+	background-color:#eeeeee;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+h2 {
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+.conteinerfor {
+	width:100%;
+	max-width:350px;
+	text-align:center;
+	padding:10px;
+	
+}
+.logo {
+	width:100%;
+	height:auto;
+} 
+.lembra {
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+
+.cxc {
+	width:100%;
+	max-width:350%;
+	height: auto;
+	color:white;
+	background-color:blue;
+	border-radius:8px;
+
+}
+small {
+
+	opacity: 0.5
+}
+.rodape {
+	padding-top: 20px;
+}
